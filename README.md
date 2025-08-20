@@ -19,4 +19,20 @@ This script automates the process of adding a new user to a Linux system.
 
 ## ⚡ Usage
 ```bash
-sudo ./auto-add-user.sh <username>
+./auto-add-user.sh <username>
+./auto-add-user.sh devuser
+📦 Info
+
+Requirements
+Linux system (RHEL, Ubuntu, CentOS, etc.)
+Root privileges (run as root user)
+Bash shell
+
+Future Plans
+Add password generation support
+Extend to manage user groups
+Logging of created users
+
+Author
+👨‍💻 Nakul Suryawanshi
+📧 Contact: nakulsuryawork@gmail.com
